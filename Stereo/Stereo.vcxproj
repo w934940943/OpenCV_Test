@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="Stereo.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StereoReconstructor.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
